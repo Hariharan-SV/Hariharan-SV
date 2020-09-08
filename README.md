@@ -6,7 +6,7 @@ My name is Hariharan, passionate about Stack, Computer Science, Data Structures 
 - 🌱 I’m currently learning mobile app development.
 - 👯 I’m looking to collaborate on projects.
 - 🤔 I’m looking for help with [Producer-Consumer Problem](https://github.com/Hariharan-SV/Producer_Consumer) ( ping me so we can have a chat )
-- 📫 How to reach me: [LinkedIn] (https://www.linkedin.com/in/hariharan-sv/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hariharan-sv/)
 - ⚡ Fun fact: I'm most productive on Sundays.
 
 ## &#x1f4c8; GitHub Stats
