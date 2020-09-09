@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Hariharan, passionate about Stack, Computer Science, Data Structures and Core Languages like C++, Python and JS. As of now I'm a Front-End developer working and contributing several projects related to web app development.
+My name is Hariharan, passionate about Full Stack, Computer Science, Data Structures and Core Languages C++, Python and JS. As of now I'm a Front-End developer working and contributing several projects related to web app development.
 
 - 🔭 I’m currently working on MERN stack projects ( WIP, so private for now )
 - 🌱 I’m currently learning mobile app development.
