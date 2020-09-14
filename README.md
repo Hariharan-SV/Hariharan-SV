@@ -4,7 +4,6 @@ My name is Hariharan, passionate about Full Stack, Computer Science, Data Struct
 
 - 🔭 I’m currently working on MERN stack projects ( WIP, so private for now )
 - 🌱 I’m currently learning mobile app development.
-- 👯 I’m looking to collaborate on projects.
 - 🤔 I’m looking for help with [Producer-Consumer Problem](https://github.com/Hariharan-SV/Producer_Consumer) ( ping me so we can have a chat )
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hariharan-sv/)
 - ⚡ Fun fact: I'm most productive on Sundays.
@@ -49,7 +48,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on projects.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
