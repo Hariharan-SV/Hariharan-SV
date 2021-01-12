@@ -32,10 +32,10 @@ My name is Hariharan, passionate about Full Stack, Computer Science, Data Struct
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Hariharan-SV/Hariharan-SV">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariharan-SV&hide=css&title_color=5853BC&text_color=3C3B3E&icon_color=5853BC&bg_color=ffffff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariharan-SV&hide=css&theme=material-palenight" />
 </a>
 <a href="https://github.com/Hariharan-SV/Hariharan-SV">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hariharan-SV&show_icons=true&line_height=33&count_private=true&title_color=5853BC&text_color=3C3B3E&icon_color=5853BC&bg_color=fff" alt="Hari's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hariharan-SV&show_icons=true&line_height=33&count_private=true&theme=material-palenight" alt="Hari's GitHub Stats" />
 </a>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariharan-sv" alt="hariharan-sv" /> </p>
