@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-My name is Hariharan, passionate about Full Stack, Computer Science, Data Structures and Core Languages C++, Python and JS. As of now I'm a Front-End developer working and contributing several projects related to web app development.
+My name is Hariharan, passionate about Full Stack, Computer Science, Data Structures and core languages C++, Python and JS. As of now I'm a Front-End developer working and contributing several projects related to web app development.
 
-- 🔭 I’m currently working on MERN stack projects ( WIP, so private for now )
-- 🌱 I’m currently learning mobile app development.
-- 🤔 I’m looking for help with [Producer-Consumer Problem](https://github.com/Hariharan-SV/Producer_Consumer) ( ping me so we can have a chat )
+- 🔭 I’m currently working on Angular projects
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hariharan-sv/)
 - ⚡ Fun fact: I'm most productive on Sundays.
 
@@ -29,6 +27,7 @@ My name is Hariharan, passionate about Full Stack, Computer Science, Data Struct
 <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 </p>
 
 ## &#x1f4c8; GitHub Stats
