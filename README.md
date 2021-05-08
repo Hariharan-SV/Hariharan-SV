@@ -35,7 +35,7 @@ My name is Hariharan, passionate about Full Stack, Computer Science, Data Struct
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Hariharan-SV/Hariharan-SV">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hariharan-SV&show_icons=true&line_height=33&count_private=true&theme=material-palenight" alt="Hari's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hariharan-SV&show_icons=true&line_height=33&count_private=true&theme=dracula" alt="Hari's GitHub Stats" />
 </a>
 <br>
 <!--
