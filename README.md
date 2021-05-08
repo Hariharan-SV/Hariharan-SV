@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-My name is Hariharan, passionate about Full Stack, Computer Science, Data Structures and core languages C++, Python and JS. As of now I'm a Front-End developer working and contributing several projects related to web app development.
+My name is Hariharan, passionate about Full Stack, Computer Science, Data Structures and core languages C++, Python and JS. As of now, I'm a Frontend developer working and contributing several projects related to web app development.
 
 - 🔭 I’m currently working on Angular projects
+- 🌱 I’m currently learning Full Stack development
+- 👯 I’m looking to collaborate on projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hariharan-sv/)
 - ⚡ Fun fact: I'm most productive on Sundays.
 
@@ -33,13 +35,9 @@ My name is Hariharan, passionate about Full Stack, Computer Science, Data Struct
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Hariharan-SV/Hariharan-SV">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariharan-SV&hide=css&theme=material-palenight" />
-</a>
-<a href="https://github.com/Hariharan-SV/Hariharan-SV">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hariharan-SV&show_icons=true&line_height=33&count_private=true&theme=material-palenight" alt="Hari's GitHub Stats" />
 </a>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hariharan-sv" alt="hariharan-sv" /> </p>
 <!--
 **Hariharan-SV/Hariharan-SV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
