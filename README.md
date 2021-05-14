@@ -37,7 +37,10 @@ My name is Hariharan, passionate about Full Stack, Computer Science, Data Struct
 <a href="https://github.com/Hariharan-SV/Hariharan-SV">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hariharan-SV&show_icons=true&line_height=33&count_private=true&theme=dracula" alt="Hari's GitHub Stats" />
 </a>
-<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Hariharan-SV/Hariharan-SV">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariharan-SV&hide=css,jupyter notebook&theme=dracula" />
+</a>
 <!--
 **Hariharan-SV/Hariharan-SV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
