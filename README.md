@@ -2,7 +2,7 @@
 
 My name is Hariharan, passionate about Full Stack, Computer Science, Data Structures and core languages C++, Python and JS. As of now, I'm a Frontend developer working and contributing several projects related to web app development.
 
-- 🔭 I’m currently working on Angular projects
+- 🔭 I’m currently working on Front-end projects
 - 🌱 I’m currently learning Full Stack development
 - 👯 I’m looking to collaborate on projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hariharan-sv/)
