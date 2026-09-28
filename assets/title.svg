@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="150" viewBox="0 0 720 150" font-family="'Fira Code','SF Mono',Consolas,'Courier New',monospace">
+  <defs>
+    <path id="name" shape-rendering="crispEdges" d="M0 0h10v70h-10zM40 0h10v70h-10zM10 30h30v10h-30zM70 0h30v10h-30zM60 10h10v60h-10zM100 10h10v60h-10zM70 30h30v10h-30zM120 0h10v70h-10zM130 0h30v10h-30zM160 10h10v20h-10zM130 30h30v10h-30zM140 40h10v10h-10zM150 50h10v10h-10zM160 60h10v10h-10zM180 0h50v10h-50zM200 10h10v50h-10zM180 60h50v10h-50zM240 0h10v70h-10zM280 0h10v70h-10zM250 30h30v10h-30zM310 0h30v10h-30zM300 10h10v60h-10zM340 10h10v60h-10zM310 30h30v10h-30zM360 0h10v70h-10zM370 0h30v10h-30zM400 10h10v20h-10zM370 30h30v10h-30zM380 40h10v10h-10zM390 50h10v10h-10zM400 60h10v10h-10zM430 0h30v10h-30zM420 10h10v60h-10zM460 10h10v60h-10zM430 30h30v10h-30zM480 0h10v70h-10zM520 0h10v70h-10zM490 10h10v10h-10zM500 20h10v10h-10zM510 30h10v10h-10zM580 0h40v10h-40zM570 10h10v20h-10zM580 30h30v10h-30zM610 40h10v20h-10zM570 60h40v10h-40zM630 0h10v50h-10zM670 0h10v50h-10zM640 50h10v10h-10zM660 50h10v10h-10zM650 60h10v10h-10z"/>
+
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3fb950"/>
+      <stop offset="0.55" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#58a6ff"/>
+    </linearGradient>
+
+    <filter id="glow" x="-10%" y="-40%" width="120%" height="180%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#000" opacity="0.22"/>
+    </pattern>
+
+    <clipPath id="reveal">
+      <rect x="0" y="-20" width="0" height="120">
+        <animate attributeName="width" values="0;60;120;180;240;300;360;420;480;540;630;700" dur="2.4s" begin="0.3s" calcMode="discrete" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="719" height="149" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <text x="20" y="28" font-size="12" fill="#8b949e">~/Hariharan-SV/README.md</text>
+
+  <g transform="translate(20 46) scale(0.9)">
+    <g clip-path="url(#reveal)">
+      <use href="#name" x="6" y="6" fill="#14532d"/>
+      <use href="#name" fill="#3fb950" opacity="0.35" filter="url(#glow)"/>
+      <use href="#name" fill="url(#g)"/>
+    </g>
+    <rect x="695" y="60" width="40" height="10" fill="#3fb950" opacity="0">
+      <animate attributeName="opacity" values="1;0" dur="1s" begin="2.6s" calcMode="discrete" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <rect x="20" y="130" width="680" height="2" fill="url(#g)" opacity="0.5"/>
+  <rect width="720" height="150" rx="10" fill="url(#scan)"/>
+</svg>
