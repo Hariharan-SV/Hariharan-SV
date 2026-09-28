@@ -1,35 +1,330 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="250" viewBox="0 0 720 250" font-family="'Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="14">
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="720"
+     height="330"
+     viewBox="0 0 720 330"
+     font-family="'Fira Code','SF Mono',Consolas,'Courier New',monospace"
+     font-size="14">
+
   <defs>
-    <clipPath id="c1"><rect x="24" y="50" height="22" width="0"><animate attributeName="width" values="0;0;110;110;0" keyTimes="0;0.03;0.06;0.94;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
-    <clipPath id="c2"><rect x="24" y="72" height="22" width="0"><animate attributeName="width" values="0;0;400;400;0" keyTimes="0;0.09;0.16;0.94;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
-    <clipPath id="c3"><rect x="24" y="100" height="22" width="0"><animate attributeName="width" values="0;0;170;170;0" keyTimes="0;0.21;0.26;0.94;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
-    <clipPath id="c4"><rect x="24" y="122" height="22" width="0"><animate attributeName="width" values="0;0;460;460;0" keyTimes="0;0.28;0.39;0.94;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
-    <clipPath id="c5"><rect x="24" y="150" height="22" width="0"><animate attributeName="width" values="0;0;260;260;0" keyTimes="0;0.44;0.50;0.94;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
-    <clipPath id="c6"><rect x="24" y="172" height="22" width="0"><animate attributeName="width" values="0;0;580;580;0" keyTimes="0;0.53;0.63;0.94;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+
+    <!-- Existing terminal reveal animations -->
+    <clipPath id="c1">
+      <rect x="24" y="125" height="22" width="0">
+        <animate attributeName="width"
+          values="0;0;110;110;0"
+          keyTimes="0;0.03;0.06;0.94;1"
+          dur="16s"
+          repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+
+    <clipPath id="c2">
+      <rect x="24" y="147" height="22" width="0">
+        <animate attributeName="width"
+          values="0;0;400;400;0"
+          keyTimes="0;0.09;0.16;0.94;1"
+          dur="16s"
+          repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+
+    <clipPath id="c3">
+      <rect x="24" y="175" height="22" width="0">
+        <animate attributeName="width"
+          values="0;0;170;170;0"
+          keyTimes="0;0.21;0.26;0.94;1"
+          dur="16s"
+          repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+
+    <clipPath id="c4">
+      <rect x="24" y="197" height="22" width="0">
+        <animate attributeName="width"
+          values="0;0;460;460;0"
+          keyTimes="0;0.28;0.39;0.94;1"
+          dur="16s"
+          repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+
+    <clipPath id="c5">
+      <rect x="24" y="225" height="22" width="0">
+        <animate attributeName="width"
+          values="0;0;260;260;0"
+          keyTimes="0;0.44;0.50;0.94;1"
+          dur="16s"
+          repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+
+    <clipPath id="c6">
+      <rect x="24" y="247" height="22" width="0">
+        <animate attributeName="width"
+          values="0;0;580;580;0"
+          keyTimes="0;0.53;0.63;0.94;1"
+          dur="16s"
+          repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+
+
+    <!-- EXACT title.svg pixel lettering -->
+    <path id="name" shape-rendering="crispEdges"
+      d="M0 0h10v70h-10z
+         M40 0h10v70h-10z
+         M10 30h30v10h-30z
+         M70 0h30v10h-30z
+         M60 10h10v60h-10z
+         M100 10h10v60h-10z
+         M70 30h30v10h-30z
+         M120 0h10v70h-10z
+         M130 0h30v10h-30z
+         M160 10h10v20h-10z
+         M130 30h30v10h-30z
+         M140 40h10v10h-10z
+         M150 50h10v10h-10z
+         M160 60h10v10h-10z
+         M180 0h50v10h-50z
+         M200 10h10v50h-10z
+         M180 60h50v10h-50z
+         M240 0h10v70h-10z
+         M280 0h10v70h-10z
+         M250 30h30v10h-30z
+         M310 0h30v10h-30z
+         M300 10h10v60h-10z
+         M340 10h10v60h-10z
+         M310 30h30v10h-30z
+         M360 0h10v70h-10z
+         M370 0h30v10h-30z
+         M400 10h10v20h-10z
+         M370 30h30v10h-30z
+         M380 40h10v10h-10z
+         M390 50h10v10h-10z
+         M400 60h10v10h-10z
+         M430 0h30v10h-30z
+         M420 10h10v60h-10z
+         M460 10h10v60h-10z
+         M430 30h30v10h-30z
+         M480 0h10v70h-10z
+         M520 0h10v70h-10z
+         M490 10h10v10h-10z
+         M500 20h10v10h-10z
+         M510 30h10v10h-10z
+         M580 0h40v10h-40z
+         M570 10h10v20h-10z
+         M580 30h30v10h-30z
+         M610 40h10v20h-10z
+         M570 60h40v10h-40z
+         M630 0h10v50h-10z
+         M670 0h10v50h-10z
+         M640 50h10v10h-10z
+         M660 50h10v10h-10z
+         M650 60h10v10h-10z"/>
+
+    <linearGradient id="titleGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3fb950"/>
+      <stop offset="0.55" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#58a6ff"/>
+    </linearGradient>
+
+    <filter id="titleGlow"
+      x="-10%" y="-40%" width="120%" height="180%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+
+    <pattern id="scan" width="4" height="4"
+      patternUnits="userSpaceOnUse">
+      <rect width="4" height="2"
+        fill="#000"
+        opacity="0.22"/>
+    </pattern>
+
+    <clipPath id="titleReveal">
+      <rect x="0" y="-20" width="0" height="120">
+        <animate
+          attributeName="width"
+          values="0;60;120;180;240;300;360;420;480;540;630;700"
+          dur="0.6s"
+          begin="0s"
+          calcMode="discrete"
+          fill="freeze"/>
+      </rect>
+    </clipPath>
+
   </defs>
 
-  <rect x="1" y="1" width="718" height="248" rx="10" fill="#0d1117" stroke="#30363d"/>
-  <rect x="1" y="1" width="718" height="34" rx="10" fill="#161b22"/>
-  <rect x="1" y="24" width="718" height="11" fill="#161b22"/>
+
+  <!-- TERMINAL WINDOW -->
+  <rect x="1" y="1"
+    width="718"
+    height="328"
+    rx="10"
+    fill="#0d1117"
+    stroke="#30363d"/>
+
+  <!-- TERMINAL HEADER -->
+  <rect x="1" y="1"
+    width="718"
+    height="34"
+    rx="10"
+    fill="#161b22"/>
+
+  <rect x="1" y="24"
+    width="718"
+    height="11"
+    fill="#161b22"/>
+
   <circle cx="22" cy="18" r="6" fill="#ff5f56"/>
   <circle cx="42" cy="18" r="6" fill="#ffbd2e"/>
   <circle cx="62" cy="18" r="6" fill="#27c93f"/>
-  <text x="360" y="22" fill="#8b949e" font-size="12" text-anchor="middle">hariharan@workshop: ~</text>
 
-  <text x="24" y="66"  fill="#c9d1d9" clip-path="url(#c1)"><tspan fill="#3fb950">$</tspan> whoami</text>
-  <text x="24" y="88"  fill="#79c0ff" clip-path="url(#c2)">hariharan-sv · backend engineer @ IBM</text>
+  <text x="360" y="22"
+    fill="#8b949e"
+    font-size="12"
+    text-anchor="middle">
+    hariharan@workshop: ~
+  </text>
 
-  <text x="24" y="116" fill="#c9d1d9" clip-path="url(#c3)"><tspan fill="#3fb950">$</tspan> cat focus.txt</text>
-  <text x="24" y="138" fill="#c9d1d9" clip-path="url(#c4)">backend systems · system design · performance</text>
 
-  <text x="24" y="166" fill="#c9d1d9" clip-path="url(#c5)"><tspan fill="#3fb950">$</tspan> ./ship --mode reliable</text>
-  <text x="24" y="188" fill="#c9d1d9" clip-path="url(#c6)"><tspan fill="#3fb950">✔</tspan> 10x render capacity   <tspan fill="#3fb950">✔</tspan> 60% test-setup reduction</text>
+  <!-- ================================= -->
+  <!-- TITLE FROM title.svg               -->
+  <!-- ================================= -->
 
-  <g opacity="0">
-    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.66;0.67;0.94;1" dur="16s" repeatCount="indefinite"/>
-    <text x="24" y="216" fill="#3fb950">$</text>
-    <rect x="42" y="203" width="9" height="16" fill="#c9d1d9">
-      <animate attributeName="opacity" values="1;0" dur="1s" calcMode="discrete" repeatCount="indefinite"/>
+  <text x="20" y="58"
+    font-size="12"
+    fill="#8b949e">
+    ~/Hariharan-SV/README.md
+  </text>
+
+  <g transform="translate(20 76) scale(0.55)">
+
+    <g clip-path="url(#titleReveal)">
+
+      <!-- glow -->
+      <use href="#name"
+        x="0"
+        y="0"
+        fill="#14532d"/>
+
+      <use href="#name"
+        fill="#3fb950"
+        opacity="0.35"
+        filter="url(#titleGlow)"/>
+
+      <!-- actual title -->
+      <use href="#name"
+        fill="url(#titleGradient)"/>
+
+    </g>
+
+    <!-- cursor -->
+    <rect x="695"
+      y="60"
+      width="40"
+      height="10"
+      fill="#3fb950"
+      opacity="0">
+
+      <animate
+        attributeName="opacity"
+        values="1;0"
+        dur="1s"
+        begin="2.6s"
+        calcMode="discrete"
+        repeatCount="indefinite"/>
+
     </rect>
+
   </g>
+
+  <!-- title separator -->
+  <!--<rect x="20" y="108"
+    width="680"
+    height="2"
+    fill="url(#titleGradient)"
+    opacity="0.5"/>-->
+
+
+  <!-- ================================= -->
+  <!-- ORIGINAL TERMINAL CONTENT         -->
+  <!-- ================================= -->
+
+  <text x="24" y="141"
+    fill="#c9d1d9"
+    clip-path="url(#c1)">
+    <tspan fill="#3fb950">$</tspan> whoami
+  </text>
+
+  <text x="24" y="163"
+    fill="#79c0ff"
+    clip-path="url(#c2)">
+    hariharan-sv · full-stack developer @ IBM
+  </text>
+
+
+  <text x="24" y="191"
+    fill="#c9d1d9"
+    clip-path="url(#c3)">
+    <tspan fill="#3fb950">$</tspan> cat focus.txt
+  </text>
+
+  <text x="24" y="213"
+    fill="#c9d1d9"
+    clip-path="url(#c4)">
+    backend systems · system design · performance
+  </text>
+
+
+  <text x="24" y="241"
+    fill="#c9d1d9"
+    clip-path="url(#c5)">
+    <tspan fill="#3fb950">$</tspan> ./ship --mode reliable
+  </text>
+
+  <text x="24" y="263"
+    fill="#c9d1d9"
+    clip-path="url(#c6)">
+    <tspan fill="#3fb950">✔</tspan> 10x render capacity
+    <tspan fill="#3fb950">✔</tspan> 60% test-setup reduction
+  </text>
+
+
+  <!-- cursor -->
+  <g opacity="0">
+
+    <animate
+      attributeName="opacity"
+      values="0;0;1;1;0"
+      keyTimes="0;0.66;0.67;0.94;1"
+      dur="16s"
+      repeatCount="indefinite"/>
+
+    <text x="24" y="291"
+      fill="#3fb950">
+      $
+    </text>
+
+    <rect x="42" y="278"
+      width="9"
+      height="16"
+      fill="#c9d1d9">
+
+      <animate
+        attributeName="opacity"
+        values="1;0"
+        dur="1s"
+        calcMode="discrete"
+        repeatCount="indefinite"/>
+
+    </rect>
+
+  </g>
+
+  <!-- scanlines over everything -->
+  <rect width="720"
+    height="330"
+    rx="10"
+    fill="url(#scan)"/>
+
 </svg>
