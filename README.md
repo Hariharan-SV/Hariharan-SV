@@ -1,15 +1,25 @@
-# 👋 Hi, I'm Hariharan  
+<div align="center">
 
-I'm a software developer who enjoys building things end-to-end — from UI experiments to backend APIs.  
-Most of my work here is side projects, weekend experiments, and stuff I build while learning.
+<!--<a href="https://github.com/Hariharan-SV">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=2EA043&center=true&vCenter=true&width=640&height=44&lines=Backend+engineer.;Backend+systems%2C+system+design%2C+performance.;Currently+building+in+the+repos+below." alt="Backend engineer. Backend systems, system design, performance." />
+</a>-->
 
-## 🌱 About Me
-- 🧩 Brushing up problem solving on [LeetCode](https://leetcode.com/u/Hariharan-SV/)  
-- 💻 Playing around with Python, React, Angular, and the occasional Java project  
-- ⚡ Exploring tools that make dev life easier
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hariharan-sv/)  
+<br/>
 
-### 🛠️ Tech I use  
+<img src="assets/terminal.svg" alt="Terminal: whoami, hariharan-sv, backend engineer." width="720" />
+
+</div>
+
+<br/>
+
+
+## About Me
+
+I'm a full-stack engineer with 3.5+ years of experience at Software AG and IBM. I work on backend systems, performance and system design, and I like debugging more than is probably healthy. I also build things at hackathons, some of which have gone well.
+
+<br/>
+
+## Stack
 
 | **Category**   | **Technologies** |
 |----------------|------------------|
@@ -19,9 +29,15 @@ Most of my work here is side projects, weekend experiments, and stuff I build wh
 | **Databases**  | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
 | **Other Tools**| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![WSL2](https://img.shields.io/badge/WSL2-4D4D4D?style=for-the-badge&logo=linux&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) |
 
+<br/>
 
+<div align="center">
 
-## &#x1f4c8; GitHub Stats
+Best way to reach me is [LinkedIn](https://www.linkedin.com/in/hariharan-sv/).
+
+</div>
+
+<!--## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Hariharan-SV/Hariharan-SV">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hariharan-SV&show_icons=true&line_height=33&count_private=true&theme=dracula" alt="Hari's GitHub Stats" />
@@ -29,7 +45,7 @@ Most of my work here is side projects, weekend experiments, and stuff I build wh
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Hariharan-SV/Hariharan-SV">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hariharan-SV&hide=css,jupyter%20notebook&theme=dracula" alt="Hari's Top Langs" />
-</a>
+</a>-->
 <!--
 **Hariharan-SV/Hariharan-SV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
